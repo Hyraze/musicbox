@@ -17,4 +17,17 @@
 
 ### ✨ [Demo](https://hyraze.github.io/musicbox/)
 
+## 🤝 Contributing
 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Hyraze/musicbox/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Hanish Rao](https://github.com/Hyraze).<br />
+This project is [MIT](https://github.com/Hyraze/musicbox/blob/master/LICENSE) licensed.
+
+***
