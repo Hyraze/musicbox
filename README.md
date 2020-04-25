@@ -7,7 +7,7 @@
   <a href="https://github.com/Hyraze/musicbox/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Hanishrao" target="_blank">
+  <a href="https://twitter.com/hanishrao" target="_blank">
     <img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg style=social"/>
   </a>
 </p>
