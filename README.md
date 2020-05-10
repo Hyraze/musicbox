@@ -1,21 +1,17 @@
-<h1 align="center">Welcome to MusicBox 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Hyraze/musicbox#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/Hyraze/musicbox/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/Hanishrao" target="_blank">
-    <img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg style=social"/>
-  </a>
-</p>
-> MusicBox is an interactive game play mapping audio to keyboard making it way more fun to play with and it's the clone of the original application patatap
+<h1 align="center">Welcome to Musicbox 👋</h1>
+<br />
+<p align="center">:octocat: MusicBox is an interactive game play mapping audio to keyboard making it way more fun to play with and it's the clone of the original application patatap.</p>
 
-### 🏠 [Homepage](https://github.com/Hyraze/musicbox#readme)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Hyraze/musicbox/blob/master/LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Hyraze/musicbox/issues)
+<a href="https://twitter.com/Hanishrao" target="_blank">
+<img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg?style=social" />
+</a>
 
-### ✨ [Demo](https://hyraze.github.io/musicbox/)
+## 🏠 [Homepage](https://github.com/Hyraze/musicbox#readme)
+
+## ✨ [Demo](https://hyraze.github.io/musicbox/)
 
 ## 🤝 Contributing
 
