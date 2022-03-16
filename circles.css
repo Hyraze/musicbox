@@ -1,0 +1,19 @@
+canvas{
+	background:#232323;
+	width:100%;
+	height:100%;
+
+}
+
+body,html{
+	height: 100%;
+	margin:0;
+}
+
+p:before{
+	color:#FAF0E6;
+	content:"Note:Touch any key,and turn up speakers";
+	font-size:0.9em;
+	font-weight: 300;
+	font-family: "Exo 2";
+}
